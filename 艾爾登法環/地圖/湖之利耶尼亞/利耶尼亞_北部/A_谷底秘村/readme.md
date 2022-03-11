@@ -11,8 +11,7 @@
 + 往上走一直走會經過
   + [古遺跡斷崖]->
   + [古遺跡斷崖(對岸)]->
-  + [熔岩土龍]->
-  + 打死boss熔岩土龍後 搭升降梯到達上方
+  + 打死boss熔岩土龍後 出現賜福[熔岩土龍] 搭升降梯到達上方
 
 這個升降梯上方的操作桿壞了 
 ![](https://images.weserv.nl/?&output=jpg&q=85&filename=2022&w=1280&h=1280&fit=inside&we&url=https://files.gitter.im/61d956256da03739848ddd27/1ffh/bandicam-2022-03-11-13-39-45-081.jpg)
