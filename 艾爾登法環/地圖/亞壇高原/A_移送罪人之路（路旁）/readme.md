@@ -3,7 +3,7 @@
 # Road of Iniquity Side Path
 
 # 賜福位置
-https://github.com/wotupset/ELDENRING/commit/ad91968c165fd615cc576d239bea5a5cc6f919d2#commitcomment-68479971
+[影片](https://github.com/wotupset/ELDENRING/commit/ad91968c165fd615cc576d239bea5a5cc6f919d2#commitcomment-68479971)
 
 # 說明
 路上有兩個巨人拖著車 車後面有寶箱可以開
