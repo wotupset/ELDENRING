@@ -5,6 +5,9 @@
 # 說明
 
 
-# 走法攻略
 
+# 和和前往位置=
+https://www.youtube.com/watch?v=KtVJsUnNKCE
+
+# 內部走法攻略=
 https://www.youtube.com/watch?v=mF50a7IoTzI
