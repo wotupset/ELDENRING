@@ -5,6 +5,9 @@
 # 說明
 前往山脊之前 朝右走下小坡
 
+# 重要道具
+鈴蘭摘採工的鈴珠2
+
 
 # 如何前往位置=
 https://www.youtube.com/watch?v=KtVJsUnNKCE
