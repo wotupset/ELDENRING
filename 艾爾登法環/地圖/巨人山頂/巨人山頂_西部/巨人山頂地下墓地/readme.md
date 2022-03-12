@@ -3,9 +3,10 @@
 # Giants' Mountaintop Catacombs
 
 # 說明
+前往山脊之前 朝右走下小坡
 
 
-# 和和前往位置=
+# 如何前往位置=
 https://www.youtube.com/watch?v=KtVJsUnNKCE
 
 # 內部走法攻略=
