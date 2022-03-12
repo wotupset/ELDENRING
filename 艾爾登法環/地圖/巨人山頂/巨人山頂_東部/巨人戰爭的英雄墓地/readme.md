@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=29D9Kn3xL6o
 
 # 巨人戰爭的英雄墓地內部走法
 https://www.youtube.com/watch?v=W6UXVNawl24
+
+把黑色影子怪物引到黃色魔法陣上面就可以打了
