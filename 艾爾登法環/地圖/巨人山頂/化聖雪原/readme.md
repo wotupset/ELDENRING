@@ -1,4 +1,6 @@
 # 化聖雪原
+# 聖別雪原
+# Consecrated Snowfield
 
 # 前往方法
 + 取得[聖樹秘密符節]
