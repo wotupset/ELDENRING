@@ -1,3 +1,7 @@
+中文
+日文
+
+---
 英文
 https://www.youtube.com/watch?v=PgmmCeNKekI
 ```
@@ -24,3 +28,12 @@ The spirits will obey thine command but briefly, as they recall battles past.
 Now it is thine. To do with as thou wishest.
 
 ```
+再對話
+```
+Forgive mine intrusion, Tarnished. 
+I doubt we shall again meet. But all the same, learn well thee Lands Between.
+How long will it be, I wonder...
+Before the Tarnished tire of obeisance to the Two Fingers?
+
+```
+菈妮消失
