@@ -2,7 +2,7 @@
 # 關於菈妮的律法
 
 中文
-https://www.youtube.com/watch?v=4l2e_MyFVt4
+https://www.youtube.com/watch?v=kPy7bI8BcZc
 ```
 我想再多聊一下
 關於我的律法
