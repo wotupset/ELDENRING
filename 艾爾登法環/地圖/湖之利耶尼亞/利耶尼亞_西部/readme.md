@@ -7,7 +7,7 @@
 + 湖之利耶尼亞
 
 # 快速到達利耶尼亞西部的方法
-
+[教學](https://github.com/wotupset/ELDENRING/commit/1a13d5f19941d16ea111a42ed2b3d4e0f47ee07a#commitcomment-69236654)
 
 
 # 說明
