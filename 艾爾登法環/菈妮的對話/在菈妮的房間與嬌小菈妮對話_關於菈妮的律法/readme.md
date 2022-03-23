@@ -1,5 +1,4 @@
-# 在菈妮的房間與嬌小菈妮對話
-# 關於菈妮的律法
+# 在菈妮的房間與嬌小菈妮對話_關於菈妮的律法
 
 中文
 https://www.youtube.com/watch?v=kPy7bI8BcZc
